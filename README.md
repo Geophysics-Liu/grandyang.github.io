@@ -1,3 +1,3 @@
 # Homepage of Grandyang
 
-Check here: www.grandyang.com
+Check here: https://www.grandyang.com/ 
